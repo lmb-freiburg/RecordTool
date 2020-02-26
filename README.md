@@ -32,7 +32,8 @@ Use 'h' + Enter to get help.
 
 Convert recorded videos to single frames
 
-   python vid2frames.py recordings/take00/run000_cam5.avi --out-path ./recordings_frames/
+
+    python vid2frames.py recordings/take00/run000_cam5.avi --out-path ./recordings_frames/
 
   
 
